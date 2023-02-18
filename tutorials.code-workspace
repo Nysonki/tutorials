@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "name": "Javascript",
+            "path": "./javascript_tutorial"
+        },
+        {
+            "name": "Typescript",
+            "path": "./typescript_tutorial"
+        },
+        {
+            "name": "React with typescript",
+            "path": "./react_typescript_tutorials"
+        },
+        {
+            "name": "Express with typescript",
+            "path": "./express_typescript_tutorial"
+        }
+    ],
+    "settings": {
+
+    }
+}
